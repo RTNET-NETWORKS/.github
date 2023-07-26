@@ -9,10 +9,3 @@ Du serveur FTP, ToIP, AD, DNS, Mail, à l'autorité de certification, tout est g
 De nouvelles méthodes de télécommunications sont aussi en développement et nous cherchons à rendre possible une souverainté des données complète à portée des étudiants, avec nos propres moyens et nos propres idées.
 
 RTNET n'est actuellement destiné qu'aux étudiants de l'IUT de Valence, mais l'objectif à terme est d'interconnecter tous les étudiants R&T de France. Toute aide, virtuelle ou physique par le biais de dons de matériels que les entreprises souhaiteraient jeter, est la bienvenue.
-
-RTNET-NETWORKS/.github is a special repository.
-
-Create a /profile/README.md and it will appear on the organization's profile.
-About
-
-Réseau informatique étudiant privé basé à Valence, France
